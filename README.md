@@ -2,4 +2,4 @@
 - 👀 I’m interested in web design as a ground up beginner, ready to dig into projects and learning how to do things as I go.
 - 🌱 I’m currently learning html and pyton
 - 💞️ I’m looking to collaborate on developing my skills as someone who has never programed before. Wanting to learn from others!
-- 📫 Send me a message in my inbox if you would like to connect on future projects!
+- 📫 Send me a message if you would like to connect on future projects!
